@@ -6,7 +6,6 @@
   </cell>
   <p>157623</p>
   <h3>ldfj</h3>
-
 </div>
 </template>
 
