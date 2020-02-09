@@ -4,6 +4,7 @@
   <cell v-if="isApprove" label="注销账号" value=" " arrow label-color="#333" @click.native="goAccountCancellation">
     <div slot="bottom" class="desc">操作后信息不可恢复，请谨慎考虑</div>
   </cell>
+  <div class="sd">666</div>
 </div>
 </template>
 
