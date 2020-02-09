@@ -5,6 +5,7 @@
     <div slot="bottom" class="desc">操作后信息不可恢复，请谨慎考虑</div>
   </cell>
   <table><tr>123</tr></table>
+  <h3>6666</h3>
 </div>
 </template>
 
