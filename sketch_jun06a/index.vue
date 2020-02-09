@@ -5,7 +5,11 @@
     <div slot="bottom" class="desc">操作后信息不可恢复，请谨慎考虑</div>
   </cell>
   <table><tr>123</tr></table>
+<<<<<<< HEAD
   <h3>6666</h3>
+=======
+  <table><tr>777777</tr></table>
+>>>>>>> 181fb9e54a10cc251e4bbe1b95d6ebcb35af60b2
 </div>
 </template>
 
