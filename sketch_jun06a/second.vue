@@ -1,13 +1,10 @@
-<template>
-    <div>888</div>
+    <div>
+        666
+    </div>
 </template>
-
 <script>
-    export default {
-        name: "second"
-    }
+export default {
+    name:second,
+
+}
 </script>
-
-<style scoped>
-
-</style>
