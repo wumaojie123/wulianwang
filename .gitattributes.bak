@@ -1,3 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<<<<<<< HEAD
 test ---> wmj
+test ----> again
+=======
+test ---> wmj1111
+>>>>>>> origin/master
