@@ -1,8 +1,8 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-test ---> wmj
 <<<<<<< HEAD
+test ---> wmj
 test ---> wmj1111
-
 =======
->>>>>>> 5a874efc2f9d98e40b7500487beaaaa49656b8a1
+if you like me, please up me.
+>>>>>>> origin/wumaojie
